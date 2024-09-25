@@ -5,6 +5,5 @@ const reverseString = function(str) {
     }
     return resultString;
 };
-
 // Do not edit below this line
 module.exports = reverseString;
